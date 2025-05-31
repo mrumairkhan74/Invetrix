@@ -1,6 +1,6 @@
 # Invetrix - Inventory Store Dashboard (MERN)
 
-![Invetrix Logo](https://raw.githubusercontent.com/mrumairkhan74/Invetrix/main/Invetrix/public/logo.png)
+![Invetrix Logo](https://raw.githubusercontent.com/mrumairkhan74/Invetrix/main/Invetrix/public/images/logo.png)
 
 ## 📦 Project Overview
 
